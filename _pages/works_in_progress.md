@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 Learning versus Habit Formation: Maximizing Preventive Health Behavior
-==========
-with Agha Ali Akram, Reshmaan Hussam, and Akib Khan
+
+<sub><sup>with Agha Ali Akram, Reshmaan Hussam, and Akib Khan</sup></sub>
+
 
 Meal-Sharing and Social Network Formation
-==========
+
+
 U.S. Landmark Names
-==========
+
