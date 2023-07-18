@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "GENED 1079: Why is there no cure for health?"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Harvard University, General Education"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching fellow under David Cutler Fall 2022 and Fall 2023.
 
 Heading 1
 ======
