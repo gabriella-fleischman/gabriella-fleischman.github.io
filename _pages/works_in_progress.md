@@ -5,12 +5,9 @@ permalink: /works_in_progress/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Learning versus Habit Formation: Maximizing Preventive Health Behavior
+with Agha Ali Akram, Reshmaan Hussam, and Akib Khan
 
-{% include base_path %}
+Meal-Sharing and Social Network Formation
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+U.S. Landmark Names
