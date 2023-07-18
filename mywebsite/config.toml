@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Gabriella Fleischman"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" , "template"]
+
+[params]
+    shortbio = "Ph.D. Candidate in Public Policy (Economics Track), Harvard University"
+    logo = "gf_headshot.jpg" 
+    
