@@ -11,6 +11,7 @@ author_profile: true
 
 **Meal-Sharing and Social Network Formation** Funded by the Weiss Fund  
 *Pilot complete*
+
 [Project blog](https://gabriella-fleischman.github.io/blog/)
 
 
