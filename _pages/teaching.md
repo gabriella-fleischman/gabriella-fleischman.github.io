@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**SUP 518: Economics of Health Equity** Master's of Public Policy course, Harvard Kennedy School
+*Teaching Fellow under Marcella Alsan, Spring 2024* 
+
 **GENED 1079: Why is there no cure for health?** Undergraduate course, Harvard College Program in General Education  
 *Teaching Fellow under David Cutler, Fall 2022 and Fall 2023*
 
