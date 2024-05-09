@@ -5,15 +5,16 @@ permalink: /works_in_progress/
 author_profile: true
 ---
 
-**Learning versus Habit Formation: Maximizing Preventive Health Behavior** with Agha Ali Akram, Reshmaan Hussam, and Akib Khan. Funded by USAID Development Innovation Ventures (DIV)  
-*Data collection in progress*
+**Learning versus Habit Formation: Maximizing Persistence in Preventive Health Behavior** with Agha Ali Akram, Reshmaan Hussam, and Akib Khan. Funded by USAID Development Innovation Ventures (DIV)  
+*Data collection complete*
 
 
 **Meal-Sharing and Social Network Formation** Funded by the Weiss Fund  
-*Pilot in progress*
+*Pilot complete*
+[Project blog](https://gabriella-fleischman.github.io/blog/)
 
 
 **U.S. Landmark Names** Funded by the Harvard Mind, Brain, and Behavior Initiative.  
-*Data collection in progress*
+*Pilot complete*
 
 
