@@ -138,16 +138,43 @@ While 5% of the sample moving is not a concerning rate of attrition, the fact th
 
 
 
+15 August, 2024
+**Blog Post 9: Kinship structure**
+
+Ninety-two percent of respondents belong to the Chewa tribe, a traditionally matrilocal tribe. However, as my findings indicate, these traditional kinship structures are no longer universally followed. Indeed, in the listing survey, 45% of households that respondents visited were eligible for the study, meaning that they did not grow up in the village that they lived. Some of these women (13%) belong to the village -- meaning that the village takes ownership of them as members through their lineage, but they did not grow up in that village. Most women in this sample moved to their husband's home village (77%). 
+
+Another 11% live in a village to which neither the respondent or her husband traditionally belong. Anecdotally, land scarcity is driving people to seek out areas with plentiful or cheap land. Indeed, low income is the strongest predictor of living in a village to which neither the respondent nor her husband belongs. Interestingly, religion is also a strong predictor -- women who belong to the largest churches in this area (Catholicism and the Church of Central African Presbytarian) are less likely to live in a village that is not a home village to either the husband or wife. This may be because churches are a common place to engage socially and find community in this setting.
+
+
+29 August, 2024
+**Blog Post 10: Intervention**
+
+Ninety-nine percent of women signed up for the Sharing List. Each Inviter sent an invitation to an average of 1.4 Invitees. The experiment created 1730 invitations across the whole sample, only 24 which were sent to someone from an Inviter’s baseline network. Aggregated, the study created 0.47 new invitations per person in the sample.
+
+I randomly varied the saturation of the treatment (proportion of Control participants relative to Inviters and Invitees) across geographic clusters. I defined geographic clusters using k-means clustering, an unsupervised learning technique that groups units according to similarities in latitude and longitude, because villages are very large in this setting (Poll, 2024). I specified two parameters in my algorithm: each cluster should have at least 20 people in it, and clusters should have 36 people each on average.  This resulted in 97 clusters, where 44 clusters (719 Control participants) were randomized to low-saturation, and 53 clusters (688 Control participants) were randomized to high-saturation. To ensure that these clusters are a relevant unit for social networks, I evaluated how often network links were within the same cluster, using network links where both individuals in the link were in my sample. Both sides of a network link were within my sample for 9% of network links. Of these relationships, 76% were within-cluster. Although these clusters are not completely socially disconnected from one another, randomizing treatment saturation at the cluster level led some Control participants to randomly have more treated neighbors than others – and therefore, more treated women from their existing or potential social networks – to be a part of the intervention.
+
+I randomized half of the clusters to high-saturation, and half to low-saturation. In high treatment saturation villages, 13% of women were randomized to Control, 45% of women were randomized to be Invitees, and 55% were randomized to be Inviters. In low treatment saturation villages, 65% of women were randomized to Control, 20% to be Invitees, and 25% to be Inviters. I will estimate the treatment effect of the number of treatment participants within a certain radius (radius chosen to minimize the Schwarz BIC following Egger et al. (2022)), recentering the measure following Borusyak and Hull (2023) to purge it of bias from endogenous features.
+
+There was a 48% increase in the number of invitations sent and received through the treatment within 100 meters of Control participants in high-saturation geographic clusters relative to Control participants in low-saturation geographic clusters (1.4 invitations sent and 1.3 invitations received, versus 0.89 invitations sent and 0.93 invitations received).
+
+
+*I would like to thank Invest in Knowledge Initiative (IKI), the survey firm with whom I partnered to conduct this project. The IKI leadership provided invaluable assistance throughout the project. The project field staff conducted excellent fieldwork, including field project management, enrolling vendors, and survey enumeration.*
 
 	
 **References**
 	
 *Banerjee, A., et al. 2023. Depression and Loneliness among the Elderly in Low- and Middle-Income Countries. Journal of Economic Perspectives, 37(2): 179-202.*
 
+*Borusyak, Kirill, and Peter Hull. 2023. “Non-Random Exposure to Exogenous Shocks.” Econometrica, 91(6): 2155-2185.*
+
 *Breza, E., A. Chandrasekhar, B. Golub, and A. Parvathaneni. 2019. “Networks in economic development.” Oxford Review of Economics Policy, 34(4): 678-721.*
 
 *Chetty, Raj, et al. 2022. “Social capital I: measurement and associations with economic mobility.” Nature 608: 108-121.*
 
+*Egger, Dennis, Johannes Haushofer, Edward Miguel, Paul Niehuas, and Michael Walker. 2022. “General Equilibrium Effects of Cash Transfers: Experimental Evidence from Kenya.” Econometrica, 90(6): 2603-2643.*
+
 *Murdock, George Peter. 1967. Ethnographic Atlas. Pittsburgh: University of Pittsburgh Press.*
+
+*Poll, Moritz. 2024. “Micro-enterprise saturation and poverty graduation at high frequency.” AEA RCT Registry. June 21. https://doi.org/10.1257/rct.11789-1.1*
 
 
