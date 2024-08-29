@@ -66,7 +66,7 @@ I assess three predictors of loneliness: women's relationships with their husban
 
 
 15 July, 2024
-**Blog Post 4: Measuring strength of network connections**
+**Blog Post 4: Strength of network connections**
 
 In this post, I discuss (1) how I measure the strength of ties, (2) which relationship characteristics and individual characteristics are associated with stronger ties.
 
@@ -76,11 +76,6 @@ In this post, I discuss (1) how I measure the strength of ties, (2) which relati
 I measure the strength of ties using five questions that women answer about their relationship with a specific individual: the Inclusion of Self in Others score, ability to trust that person with thoughts and feelings, how easy it is to laugh with that person, whether or not you consider that person to be someone you tell everything to, whether or not you believe that person tells everything to you, and whether or not you can trust that person with a secret. I conduct principal components analysis (PCA) on these variables and use the first component as my measure of strong ties. 
 
 The Inclusion of Self in Others (ISO) score is a psychology instrument to determine closeness of relationships. Respondents see two circles, where one circle represents oneself, and the other circle represents the other individual. There are seven images, where in each image the circles between increasingly more overlapping. When the circles are completely non-overlapping, this represents a relationship where the two individuals feels like completely separate entities; and when the circles are almost entirely overlapping, this represents a relatinoship where the other person is an important part of one's identity, or highly "included in the self". Interestingly, women responded very differently to this question depending on whether the other person they were answer the question about was their husband or someone else. The level of trust and ability to laugh with their husbands was more or less uncorrelated with the ISO score they gave for their husband (if anything, it was negatively correlated). Conversely, levels of trust, ability to laugh, and the ISO score were all positively correlated with people who were not the husband. Because of these differences in how women responded I calculated the index of strong ties with friends separately from the index of strong ties with husbands. 
-
-
-
-20 July, 2024
-**Blog Post 5: Predictors of strong network connections**
 
 
 *What Makes a Strong Tie*
@@ -93,7 +88,7 @@ Friends: Lasso selects 66 variables to explain the strength of ties with friends
 
 
 25 July, 2024
-**Blog Post 6: Depression among female rural-to-rural migrants**
+**Blog Post 5: Depression and occupations among female rural-to-rural migrants**
 
 *Measuring Depression*
 
@@ -119,10 +114,7 @@ I assessed depression in my sample of 1,600 low-income women. Twenty-seven perce
 
 I regress depression scores on the following variables: number of animal protein meals consumed in the last month (fish, meat, and eggs); number of meals consumed yesterday; number of meals consumed the day before yesterday; UCLA-3 loneliness score; number of friends in the social network; average strength of network connections. A one-standard deviation increase in animal protein meals consumed last month is associated with a 0.54 standard-deviation decrease in depression scores (p-value < 0.001). While loneliness and depression are related, the relationship is weak -- a one-standard deviation increase in loneliness scores is only associated with a 0.01 standard deviation increase in depression scores (p-value < 0.001). Sixty-four percent of the sample is neither at risk of loneliness or depression; 5.6% of people are at risk of both; 21.5% are at risk of depression, but not loneliness; and 8.6% are at risk of loneliness, but not depression. Social networks are not meaningfully correlated with depression scores.
 
-
-
-2 August, 2024
-**Blog Post 7: Occupations among rural-to-rural female migrants**
+*Occupations*
 
 This is an agricultural setting. Eighty-three percent of respondents report that they cultivate crops, and 26.7% of these women cultivate for subsistence only (the rest cultivate for subsistence and sale). Twenty-seven percent of participants report working in piecework employment (casual day labor), with the vast majority of them working in agricultural piecework. Twenty-nine percent of respondents earn income from business. For most respondents, these businesses are informal, and are not brick-and-mortar establishments. The most common businesses are selling prepared foods (46% of businesses), selling vegetables (17% of businesses) and selling kachasu (12% of businesses), a traditional distilled liquor. Only sixteen respondents (less than 1%) have a contract job, and six participants earn income by renting land that they own. Thirty respondents do not do any income-earning activities (almost all of whom are pregnant or have a young child).
 
@@ -130,24 +122,23 @@ Fifty-nine percent of respondents earn income from one occupation, 37% of respon
 
 
 7 August, 2024
-**Blog Post 8: Migration**
+**Blog Post 6: Migration and kinship structure**
+
+*Migration*
 
 In one month, between the baseline and endline surveys, several households had already migrated. A major reason was because they were searching for part-time seasonal employment. These visits were during the dry season, during which agricultural jobs are scarce. In the endline survey, 1.5% of surveys were conducted on the phone because the respondents had moved sufficiently far away that it would not be feasible to conduct the survey in person. A small sample of households (less than 1%) had moved abroad (neighboring countries of Zambia and Mozambique), seeking seasonal employment. Another 2.5% of respondents had moved somewhere else within our study district, and we were about to interview them in person. 
 
 While 5% of the sample moving is not a concerning rate of attrition, the fact that 5% of people move within just one month does speak to the high level of mobility in this sample. If people so easily move between villages, it may reduce the incentives to invest in relationships with neighbors. 
 
-
-
-15 August, 2024
-**Blog Post 9: Kinship structure**
+*Kinship*
 
 Ninety-two percent of respondents belong to the Chewa tribe, a traditionally matrilocal tribe. However, as my findings indicate, these traditional kinship structures are no longer universally followed. Indeed, in the listing survey, 45% of households that respondents visited were eligible for the study, meaning that they did not grow up in the village that they lived. Some of these women (13%) belong to the village -- meaning that the village takes ownership of them as members through their lineage, but they did not grow up in that village. Most women in this sample moved to their husband's home village (77%). 
 
 Another 11% live in a village to which neither the respondent or her husband traditionally belong. Anecdotally, land scarcity is driving people to seek out areas with plentiful or cheap land. Indeed, low income is the strongest predictor of living in a village to which neither the respondent nor her husband belongs. Interestingly, religion is also a strong predictor -- women who belong to the largest churches in this area (Catholicism and the Church of Central African Presbytarian) are less likely to live in a village that is not a home village to either the husband or wife. This may be because churches are a common place to engage socially and find community in this setting.
 
 
-29 August, 2024
-**Blog Post 10: Intervention**
+15 August, 2024
+**Blog Post 7: Intervention**
 
 Ninety-nine percent of women signed up for the Sharing List. Each Inviter sent an invitation to an average of 1.4 Invitees. The experiment created 1730 invitations across the whole sample, only 24 which were sent to someone from an Inviter’s baseline network. Aggregated, the study created 0.47 new invitations per person in the sample.
 
@@ -158,7 +149,17 @@ I randomized half of the clusters to high-saturation, and half to low-saturation
 There was a 48% increase in the number of invitations sent and received through the treatment within 100 meters of Control participants in high-saturation geographic clusters relative to Control participants in low-saturation geographic clusters (1.4 invitations sent and 1.3 invitations received, versus 0.89 invitations sent and 0.93 invitations received).
 
 
-*I would like to thank Invest in Knowledge Initiative (IKI), the survey firm with whom I partnered to conduct this project. The IKI leadership provided invaluable assistance throughout the project. The project field staff conducted excellent fieldwork, including field project management, enrolling vendors, and survey enumeration.*
+
+29 August, 2024
+**Blog Post 8: Reflections**
+
+Reflections from running this experiment:
+
+1. Deep-diving into the anthropological and historical literature about Malawi has proven invaluable in conducting this research. I would encourage anyone conducting development research to engage deeply with the work produced by scholars from the country in which they conduct their research, particularly with work outside of their discipline, and meet with these scholars if possible.
+
+2. One of the most important findings for me in this study has been documenting the way in which, even in societies that are almost ethnically and religiously homogenous, lower-income women are left out of financial and social groups. In my sample, a one-standard deviation increase in a wealth index is associated with a 10 percentage point increase in the probability of being a member of a village savings and loan association (women's self-help savings groups), and an 8 percentage-point increase in the probability of belonging to a church-based women's group. This relationship is true even among women who are all below the global poverty line. 
+
+3. Thank you to everyone who assisted me in this project. I would especially like to thank Invest in Knowledge Initiative (IKI), the survey firm with whom I partnered to conduct this project. The IKI leadership provided invaluable assistance throughout the project. The project field staff conducted excellent fieldwork, including field project management, enrolling vendors, and survey enumeration.
 
 	
 **References**
