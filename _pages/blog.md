@@ -10,7 +10,7 @@ author_profile: true
 *Thanks to the generous support of the Adrianne Hall Fund at the Women and Public Policy Program at Harvard Kennedy School*
 
 16 May, 2024
-Blog Post 1: Study Design
+**Blog Post 1: Study Design**
 
 In seventy-one percent of societies worldwide, women move to the area where her husband and his kin live at the time of marriage (Murdock 1967). I seek to evaluate how women’s ability to enter social networks after moving to a new village for marriage affects their mental health and integration into social and financial networks in rural Malawi villages. While a growing literature shows mental health disorders and loneliness are highly prevalent among low-income people, including within developing countries (Banerjee et al. 2023), there is limited evidence documenting causal pathways and mitigating strategies in this population. Furthermore, although evidence documents that social networks facilitate financial risk-sharing and information transmission (Breza et al. 2019), little is known about how social networks originate or evolve. My intervention will help young, low-income female marriage migrants to initiate meal-sharing with other women, a common way to engage socially. My study design will allow me to understand the causes and consequences of sparse and homophilic networks within a socially isolated and vulnerable population. I will explore the roles of social frictions and budget constraints as potential inhibitors of homophilic and non-homophilic network formation among young female marriage migrants. Finally, I will investigate how encouraging meal-sharing relationship affects social network formation and characteristics, psychological well-being, and socio-economic inclusion.
 
@@ -30,7 +30,7 @@ Furthermore, this design allows me to test if homophily is caused by preferences
 	
 	
 1 July, 2024
-Blog Post 2: Sample of female marriage migrants
+**Blog Post 2: Sample of female marriage migrants**
 
 *Sample*
 
@@ -41,7 +41,7 @@ The median age was 27 years old (mean: 29), the median age of women when they mo
 
 
 5 July, 2024
-Blog Post 3: Loneliness among female marriage migrants
+**Blog Post 3: Loneliness among female marriage migrants**
 
 *Measuring loneliness*
 
@@ -66,7 +66,7 @@ I assess three predictors of loneliness: women's relationships with their husban
 
 
 15 July, 2024
-Blog Post 4: Measuring strength of network connections
+**Blog Post 4: Measuring strength of network connections**
 
 In this post, I discuss (1) how I measure the strength of ties, (2) which relationship characteristics and individual characteristics are associated with stronger ties.
 
@@ -80,7 +80,7 @@ The Inclusion of Self in Others (ISO) score is a psychology instrument to determ
 
 
 20 July, 2024
-Blog Post 5: Predictors of strong network connections
+**Blog Post 5: Predictors of strong network connections**
 
 
 *What Makes a Strong Tie*
@@ -93,7 +93,7 @@ Friends: Lasso selects 66 variables to explain the strength of ties with friends
 
 
 25 July, 2024
-Blog Post 6: Depression among female rural-to-rural migrants
+**Blog Post 6: Depression among female rural-to-rural migrants**
 
 *Measuring Depression*
 
@@ -122,7 +122,7 @@ I regress depression scores on the following variables: number of animal protein
 
 
 2 August, 2024
-Blog Post 7: Occupations among rural-to-rural female migrants
+**Blog Post 7: Occupations among rural-to-rural female migrants**
 
 This is an agricultural setting. Eighty-three percent of respondents report that they cultivate crops, and 26.7% of these women cultivate for subsistence only (the rest cultivate for subsistence and sale). Twenty-seven percent of participants report working in piecework employment (casual day labor), with the vast majority of them working in agricultural piecework. Twenty-nine percent of respondents earn income from business. For most respondents, these businesses are informal, and are not brick-and-mortar establishments. The most common businesses are selling prepared foods (46% of businesses), selling vegetables (17% of businesses) and selling kachasu (12% of businesses), a traditional distilled liquor. Only sixteen respondents (less than 1%) have a contract job, and six participants earn income by renting land that they own. Thirty respondents do not do any income-earning activities (almost all of whom are pregnant or have a young child).
 
@@ -130,7 +130,7 @@ Fifty-nine percent of respondents earn income from one occupation, 37% of respon
 
 
 7 August, 2024
-Blog Post 8: Migration
+**Blog Post 8: Migration**
 
 In one month, between the baseline and endline surveys, several households had already migrated. A major reason was because they were searching for part-time seasonal employment. These visits were during the dry season, during which agricultural jobs are scarce. In the endline survey, 1.5% of surveys were conducted on the phone because the respondents had moved sufficiently far away that it would not be feasible to conduct the survey in person. A small sample of households (less than 1%) had moved abroad (neighboring countries of Zambia and Mozambique), seeking seasonal employment. Another 2.5% of respondents had moved somewhere else within our study district, and we were about to interview them in person. 
 
