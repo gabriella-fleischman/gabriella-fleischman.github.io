@@ -16,7 +16,6 @@ author_profile: true
 *Data collection complete* [Project blog](https://gabriella-fleischman.github.io/blog/)
 
 
-**U.S. Landmark Names**
+**U.S. Landmark Names** with Emily McDonnell
 *Pilot complete*
-
 
