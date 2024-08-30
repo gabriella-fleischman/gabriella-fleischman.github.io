@@ -9,11 +9,11 @@ author_profile: true
 
 
 **Experiential Learning in Health** with Agha Ali Akram, Reshmaan Hussam, and Akib Khan.
-*Data collection complete*
+*Draft coming soon*
 
 
 **Social Network Formation among Female Marriage Migrants**
-*Trial in progress* [Project blog](https://gabriella-fleischman.github.io/blog/)
+*Data collection complete* [Project blog](https://gabriella-fleischman.github.io/blog/)
 
 
 **U.S. Landmark Names**
