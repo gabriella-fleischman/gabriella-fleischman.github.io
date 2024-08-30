@@ -8,7 +8,7 @@ author_profile: true
 <u>Works in Progress</u>
 
 
-**Learning versus Habit Formation: Maximizing Persistence in Preventive Health Behavior** with Agha Ali Akram, Reshmaan Hussam, and Akib Khan.
+**Experiential Learning in Health** with Agha Ali Akram, Reshmaan Hussam, and Akib Khan.
 *Data collection complete*
 
 
