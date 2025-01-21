@@ -9,7 +9,7 @@ author_profile: true
 
 
 **Experiential and Social Learning** with Agha Ali Akram, Reshmaan Hussam, and Akib Khan.
-*Working Paper available by email request*
+*Working Paper available by request*
 
 
 
