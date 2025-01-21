@@ -9,7 +9,7 @@ author_profile: true
 
 
 **Experiential and Social Learning** with Agha Ali Akram, Reshmaan Hussam, and Akib Khan.
-*Working Paper available by email*
+*Working Paper available by email request*
 
 
 
@@ -19,15 +19,15 @@ author_profile: true
 **Income-Based Homophily and Social Capital**
 *Trial complete*
 
-**Soft Affirmative Action with Uncertain Signals** with Mansa Saxena
+**Soft Affirmative Action with Uncertain Signals** with Mansa Saxena.
 *Trial complete*
 
-**Gendered Misallocation of Agrarian Labor** with Nicholas Rahim
+**Gendered Misallocation of Agrarian Labor** with Nicholas Rahim.
 *Trial in progress*
 
-**Peer Effects in Adherence to HIV Treatment** with Jessica Gallant
+**Peer Effects in Adherence to HIV Treatment** with Jessica Gallant.
 *Analysis*
 
-**U.S. Landmark Names** with Emily McDonnell
+**U.S. Landmark Names** with Emily McDonnell.
 *Pilot complete*
 
