@@ -60,7 +60,7 @@ function toggleAbstract(id, arrowId) {
   </p>
   </div>
   
-  <div class="toggle-header" onclick="toggleAbstract('abs2', 'arrow2')">
+  <div class="toggle-header" onclick="toggleAbstract('abs3', 'arrow3')">
   <span id="arrow2" class="toggle-arrow">▸</span>
   <span><strong>Distorted Signals and Evaluator Bias: A Two-Stage Experiment on Gendered Hiring in Malawi</strong> with Mansa Saxena</span>
   </div>
@@ -70,7 +70,6 @@ Our study examines gender gaps in hiring for formal employment in Malawi. We par
   </p>
   </div>
   
-
 </div>
 
 <u>Select Research in Progress</u>
