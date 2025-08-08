@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 <u>Working Papers</u>
+
 <style>
 .toggle-header {
   cursor: pointer;
   display: flex;
   align-items: center;
+  margin-top: 20px; /* Add vertical space before each paper */
 }
 
 .toggle-arrow {
@@ -24,7 +26,6 @@ author_profile: true
   margin-left: 20px;
 }
 </style>
-
 
 <script>
 function toggleAbstract(id, arrowId) {
@@ -83,4 +84,5 @@ Our study examines gender gaps in hiring for formal employment in Malawi. We par
 
 **U.S. Landmark Names** with Emily McDonnell.
 *Pilot complete*
+
 
