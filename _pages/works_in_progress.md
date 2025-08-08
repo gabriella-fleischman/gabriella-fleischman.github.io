@@ -61,10 +61,10 @@ function toggleAbstract(id, arrowId) {
   </div>
   
   <div class="toggle-header" onclick="toggleAbstract('abs3', 'arrow3')">
-  <span id="arrow2" class="toggle-arrow">▸</span>
+  <span id="arrow3" class="toggle-arrow">▸</span>
   <span><strong>Distorted Signals and Evaluator Bias: A Two-Stage Experiment on Gendered Hiring in Malawi</strong> with Mansa Saxena</span>
   </div>
-  <div id="abs2" class="toggle-content">
+  <div id="abs3" class="toggle-content">
     <p>
 Our study examines gender gaps in hiring for formal employment in Malawi. We partner with a firm to conduct two sequential experiments to study supply-side constraints (lack of qualified female applicants) and demand-side constraints (biases in hiring decisions). The first experiment focuses on increasing the pool of female applications during a recruitment drive through female-directed advertising. Despite no differences in the objective skills of the female applicants across treated and control areas, the treatment has the perverse effect of leading to a <em>reduction</em> in female hiring. This surprising result informs our second experiment—a resume audit study—where we use real applications from stage one and manipulate application features, while holding qualifications constant, to isolate biases in hiring evaluations. We argue that the treatment backfires due to the combination of evaluator bias, where evaluators place greater weight on soft-skill signals for women, and signal distortion, whereby the treatment alters how women use soft-skill signals on their applications, thereby reducing the correlation between soft-skill signals and more-informative signals of ability. In the absence of the treatment, soft-skill signals and objective technical skills are positively correlated, allowing evaluators to select objectively qualified applicants across genders. The treatment weakens this cross-signal correlation for women, which, when combined with evaluators’ greater reliance on soft-skill cues for female applicants, leads to the screening in of less-qualified women who ultimately crowd out more-qualified candidates from the pool.
   </p>
