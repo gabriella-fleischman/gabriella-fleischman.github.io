@@ -74,14 +74,43 @@ Our study examines gender gaps in hiring for formal employment in Malawi. We par
 
 <u>Select Research in Progress</u>
 
+<div>
+  <div class="toggle-header" onclick="toggleAbstract('abs4', 'arrow4')">
+    <span id="arrow4" class="toggle-arrow">▸</span>
+    <span><strong>Gendered Misallocation of Agrarian Labor</strong> with Nicholas Rahim. <em>Trial in progress</em>
+</span>
+  </div>
+  <div id="abs4" class="toggle-content">
+    <p>
+The gap in agricultural output between men and women has long been documented in Malawi, with the difference in productivity estimated to be 28%. Standard explanations for this productivity gap point towards disparate quality and quantity of capital farm inputs. We test a novel explanation for disparities in agricultural output between men and women in Malawi: child-bearing as a unique shock to household labor supply that inhibit women from efficiently utilizing their land and maximizing potential yields. Pregnancy and child-rearing are negative shocks to women’s available labor, since women’s time and productivity is compromised by physiological changes and child-rearing responsibilities. In frictionless land, labor, and credit markets, women should be able to make productive use of their land when their own labor supply is inhibited. We test if labor and credit market frictions prevent pregnant and postpartum women from optimally using their land. We partner with an organization that provides loans for capital farm inputs to implement a randomized controlled trial with female farmers who are pregnant or have a child under the age of one year old. We randomly select women for whom we subsidize the cost and search frictions for hiring five days of agricultural labor during the farming season. We test the impact of resolving labor and credit market frictions on agricultural and health outcomes.
+</p>
+  </div>
+  
+  <div class="toggle-header" onclick="toggleAbstract('abs5', 'arrow5')">
+  <span id="arrow5" class="toggle-arrow">▸</span>
+  <span>
+<strong>Peer Effects in Adherence to HIV Treatment</strong> with Jessica Gallant. <em>Analysis</em>
+</span>
+  </div>
+  <div id="abs5" class="toggle-content">
+    <p>
+This paper investigates the role of peer influence in health behavior by studying antiretroviral therapy (ART) adherence among adolescents living with HIV in Malawi. We provide novel causal evidence of peer behaviour in determining retention in HIV care through an analysis of high-frequency electronic medical records of HIV treatment from 85 Malawian clinics. With electronic medical records of almost 45,000 adolescents, across twelve years and 23 districts in Malawi, we track high-stakes health decision-making for as long as adolescents receive care. This allows us to examine the causal impact of peer behavior on long-term health adherence among a group that is both developmentally sensitive to peer dynamics and disproportionately affected by poor health outcomes in the context of HIV.
+</p>
+  </div>
 
-**Gendered Misallocation of Agrarian Labor** with Nicholas Rahim.
-*Trial in progress*
 
-**Peer Effects in Adherence to HIV Treatment** with Jessica Gallant.
-*Analysis*
+  <div class="toggle-header" onclick="toggleAbstract('abs6', 'arrow6')">
+  <span id="arrow6" class="toggle-arrow">▸</span>
+  <span>
+<strong>Why do we Pay for Symbolism? Evidence from U.S. Landmark Names</strong> with Emily McDonnell.<em>Pilot complete</em>
+</span>
+  </div>
+  <div id="abs6" class="toggle-content">
+    <p>
+We use administrative data and survey experiments to analyze reactions to the renaming of U.S. geographic landmarks. Using a sample of real landmark name changes and political donations in affected zip-codes, we find evidence that people are willing to pay for their preferred symbolic representation of the U.S. map, but that they respond to the name change <em>process</em> rather than the actual replacement names. In our survey experiment, respondents express much more conservative policy preferences when we frame the 2015 renaming of Mt. McKinley to Mt. Denali as a process enacted by and benefiting groups of people, rather than a passive occurrence. Emphasizing the Indigenous origins of the name "Denali" does not generate the same response, and when combined with the active voice treatment actually mitigates the backlash. We argue that part of the reason people care about symbols is because they lose utility through the processes that seek to enact, remove, or replace symbols, distinct from preferences over the symbols themselves. Crucially, tailored information can psychologically compensate people for these utility losses and reduce backlash. These findings have implications for our understanding of cultural preferences over political processes, and policy relevance for messaging about policy changes.
+</p>
+  </div>
 
-**U.S. Landmark Names** with Emily McDonnell.
-*Pilot complete*
+</div>
 
 
