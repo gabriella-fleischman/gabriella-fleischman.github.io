@@ -27,7 +27,7 @@ author_profile: true
 }
 </style>
 <script>
-  const showAllAbstracts = false; // ← Only change this line to control behavior
+  const showAllAbstracts = true; // ← Only change this line to control behavior
 
   function toggleAbstract(id, arrowId) {
     const content = document.getElementById(id);
