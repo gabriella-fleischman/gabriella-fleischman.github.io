@@ -141,5 +141,5 @@ We use administrative data and survey experiments to analyze reactions to the re
 We study how private health behavior responds to new public water infrastructure. During an 18-month randomized controlled trial (RCT) in peri-urban Karachi, we distribute chlorine tablets to households and collect monthly, objective measures of chlorine use and water source choices. Concurrently, local NGOs independently implement water infrastructure projects in a staggered fashion. This natural variation in proximity to new standpipes and boreholes, combined with randomized access to water treatment, allows us to estimate the dynamic effects of infrastructure exposure on private behavior and health outcomes.
 </p>
   </div>
-
+  
 </div>
