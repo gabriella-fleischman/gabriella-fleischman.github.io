@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- SETTING: Change this to true or false -->
 <script>
-  const showAllAbstracts = false;
+  const showAllAbstracts = true;
 </script>
 
 <style>
