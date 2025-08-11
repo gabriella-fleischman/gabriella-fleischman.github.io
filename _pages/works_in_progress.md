@@ -26,20 +26,38 @@ author_profile: true
   margin-left: 20px;
 }
 </style>
-
 <script>
-function toggleAbstract(id, arrowId) {
-  var content = document.getElementById(id);
-  var arrow = document.getElementById(arrowId);
-  if (content.style.display === "none") {
-    content.style.display = "block";
-    arrow.style.transform = "rotate(90deg)";
-  } else {
-    content.style.display = "none";
-    arrow.style.transform = "rotate(0deg)";
+  const showAllAbstracts = false; // ← Only change this line to control behavior
+
+  function toggleAbstract(id, arrowId) {
+    const content = document.getElementById(id);
+    const arrow = document.getElementById(arrowId);
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      arrow.style.transform = "rotate(90deg)";
+    } else {
+      content.style.display = "none";
+      arrow.style.transform = "rotate(0deg)";
+    }
   }
-}
+
+ window.onload = function () {
+   const contents = document.querySelectorAll('.toggle-content');
+   const arrows = document.querySelectorAll('.toggle-arrow');
+
+   contents.forEach((content, i) => {
+     if (showAllAbstracts) {
+       content.style.display = "block";
+       arrows[i].style.transform = "rotate(90deg)";
+     } else {
+       content.style.display = "none";
+       arrows[i].style.transform = "rotate(0deg)";
+     }
+   });
+ };
+
 </script>
+
 
 <div>
   <div class="toggle-header" onclick="toggleAbstract('abs1', 'arrow1')">
@@ -102,7 +120,7 @@ This paper investigates the role of peer influence in health behavior by studyin
   <div class="toggle-header" onclick="toggleAbstract('abs6', 'arrow6')">
   <span id="arrow6" class="toggle-arrow">▸</span>
   <span>
-<strong>Why do we Pay for Symbolism? Evidence from U.S. Landmark Names</strong> with Emily McDonnell.<em>Pilot complete</em>
+<strong>Why do we Pay for Symbolism? Evidence from U.S. Landmark Names</strong> with Emily McDonnell. <em>Data collection in progress</em>
 </span>
   </div>
   <div id="abs6" class="toggle-content">
@@ -110,7 +128,18 @@ This paper investigates the role of peer influence in health behavior by studyin
 We use administrative data and survey experiments to analyze reactions to the renaming of U.S. geographic landmarks. Using a sample of real landmark name changes and political donations in affected zip-codes, we find evidence that people are willing to pay for their preferred symbolic representation of the U.S. map, but that they respond to the name change <em>process</em> rather than the actual replacement names. In our survey experiment, respondents express much more conservative policy preferences when we frame the 2015 renaming of Mt. McKinley to Mt. Denali as a process enacted by and benefiting groups of people, rather than a passive occurrence. Emphasizing the Indigenous origins of the name "Denali" does not generate the same response, and when combined with the active voice treatment actually mitigates the backlash. We argue that part of the reason people care about symbols is because they lose utility through the processes that seek to enact, remove, or replace symbols, distinct from preferences over the symbols themselves. Crucially, tailored information can psychologically compensate people for these utility losses and reduce backlash. These findings have implications for our understanding of cultural preferences over political processes, and policy relevance for messaging about policy changes.
 </p>
   </div>
+  
+  
+  <div class="toggle-header" onclick="toggleAbstract('abs7', 'arrow7')">
+  <span id="arrow7" class="toggle-arrow">▸</span>
+  <span>
+<strong>Public Services and Private Behavior: Evidence from Water Infrastructure in Pakistan</strong> with Akib Khan. <em>Data collection complete, analysis in progress</em>
+</span>
+  </div>
+  <div id="abs7" class="toggle-content">
+    <p>
+We study how private health behavior responds to new public water infrastructure. During an 18-month randomized controlled trial (RCT) in peri-urban Karachi, we distribute chlorine tablets to households and collect monthly, objective measures of chlorine use and water source choices. Concurrently, local NGOs independently implement water infrastructure projects in a staggered fashion. This natural variation in proximity to new standpipes and boreholes, combined with randomized access to water treatment, allows us to estimate the dynamic effects of infrastructure exposure on private behavior and health outcomes.
+</p>
+  </div>
 
 </div>
-
-
