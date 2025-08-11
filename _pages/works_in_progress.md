@@ -7,28 +7,40 @@ author_profile: true
 
 <u>Working Papers</u>
 
-<style>
-.toggle-header {
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  margin-top: 20px; /* Add vertical space before each paper */
-}
-
-.toggle-arrow {
-  display: inline-block;
-  transition: transform 0.2s ease;
-  margin-right: 6px;
-}
-
-.toggle-content {
-  display: none;
-  margin-left: 20px;
-}
-</style>
+<!-- SETTING: Change this to true or false -->
 <script>
-  const showAllAbstracts = false; // ← Only change this line to control behavior
+  const showAllAbstracts = true;
+</script>
 
+<style>
+  .toggle-header {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .toggle-arrow {
+    display: inline-block;
+    transition: transform 0.2s ease;
+    margin-right: 6px;
+  }
+
+  .toggle-content {
+    display: none;
+    margin-left: 20px;
+  }
+</style>
+
+<div class="toggle-header" onclick="toggleAbstract('abs1', 'arrow1')">
+  <span id="arrow1" class="toggle-arrow">▸</span>
+  <span><strong>Test Paper Title</strong></span>
+</div>
+<div id="abs1" class="toggle-content">
+  <p>This is the abstract that should appear or disappear.</p>
+</div>
+
+<script>
   function toggleAbstract(id, arrowId) {
     const content = document.getElementById(id);
     const arrow = document.getElementById(arrowId);
@@ -41,21 +53,20 @@ author_profile: true
     }
   }
 
- window.onload = function () {
-   const contents = document.querySelectorAll('.toggle-content');
-   const arrows = document.querySelectorAll('.toggle-arrow');
+  document.addEventListener("DOMContentLoaded", function () {
+    const contents = document.querySelectorAll(".toggle-content");
+    const arrows = document.querySelectorAll(".toggle-arrow");
 
-   contents.forEach((content, i) => {
-     if (showAllAbstracts) {
-       content.style.display = "block";
-       arrows[i].style.transform = "rotate(90deg)";
-     } else {
-       content.style.display = "none";
-       arrows[i].style.transform = "rotate(0deg)";
-     }
-   });
- };
-
+    contents.forEach((content, i) => {
+      if (showAllAbstracts) {
+        content.style.display = "block";
+        arrows[i].style.transform = "rotate(90deg)";
+      } else {
+        content.style.display = "none";
+        arrows[i].style.transform = "rotate(0deg)";
+      }
+    });
+  });
 </script>
 
 
