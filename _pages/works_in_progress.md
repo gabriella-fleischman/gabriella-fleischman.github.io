@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- SETTING: Change this to true or false -->
 <script>
-  const showAllAbstracts = true;
+  const showAllAbstracts = false;
 </script>
 
 <style>
@@ -31,14 +31,6 @@ author_profile: true
     margin-left: 20px;
   }
 </style>
-
-<div class="toggle-header" onclick="toggleAbstract('abs1', 'arrow1')">
-  <span id="arrow1" class="toggle-arrow">▸</span>
-  <span><strong>Test Paper Title</strong></span>
-</div>
-<div id="abs1" class="toggle-content">
-  <p>This is the abstract that should appear or disappear.</p>
-</div>
 
 <script>
   function toggleAbstract(id, arrowId) {
