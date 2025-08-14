@@ -5,7 +5,7 @@ permalink: /works_in_progress/
 author_profile: true
 ---
 
-<u>Working Papers</u>
+<u>Working Papers</u> (Coming soon, drafts available by email request)
 
 <div>
   <p><strong>JOB MARKET PAPER Income-Based Homophily and Social Capital: Experimental Evidence from Malawi</strong></p>
