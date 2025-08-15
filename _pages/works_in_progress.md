@@ -9,6 +9,7 @@ author_profile: true
 
 <div>
   <p><strong>JOB MARKET PAPER Income-Based Homophily and Social Capital: Experimental Evidence from Malawi</strong></p>
+  <p>[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13644)</p>
   <p>
 I study the exogenous impacts of social linking among a sample that is socially isolated, lonely, and economically vulnerable. I experimentally induce social interactions between female rural migrants in Malawi by facilitating low-SES women in inviting low-SES, high-SES, or a random mix of women for a shared meal. I cross-randomize a voucher for meat, a high-price good that improves the experience of sharing a meal. Within just one month of the intervention, participants are 25% more likely to operate small-scale, informal businesses relative to control. One year later, they experience a 0.13 SD increase in food consumption and a 22% reduction in depression. While all groups experience both sets of benefits, inviting high-SES guests leads to more business activity and higher consumption, while inviting low-SES guests leads to greater depression reductions. I find that effort costs prohibit women from initiating any relationship in the absence of the intervention, while the high price of serving meat inhibits cross-SES linking. I draw three conclusions: (1) all social relationships yield large benefits, but frictions inhibit them from forming, (2) different types of relationships are more productive across different domains, underscoring the value of economically diverse networks, and (3) prices reinforce income-based homophily.
 </p>
@@ -19,6 +20,7 @@ We examine complementarities between experiential and social learning in health 
 </p>
 
   <p><strong>Distorted Signals and Evaluator Bias: A Two-Stage Experiment on Gendered Hiring in Malawi</strong> with Mansa Saxena</p>
+  <p>[AEA RCT Registry](https://www.socialscienceregistry.org/trials/15284)</p>
   <p>
 We evaluate how well-meaning inclusion efforts can backfire if not implemented carefully. We partner with a firm in Malawi to conduct two sequential experiments to study supply-side and demand-side constraints to hiring women for formal jobs. The first experiment focuses on increasing the pool of female applications during a recruitment drive through female-directed advertising. Despite no differences in the objective skills of the female applicants across treated and control areas, the treatment has the perverse effect of leading to a reduction in female hiring. This surprising result informs our second experiment—a resume audit study—where we use real applications from stage one and manipulate application features, while holding qualifications constant, to isolate biases in hiring evaluations. We argue that the treatment backfires due to the combination of evaluator bias, where evaluators place greater weight on soft-skill signals for women, and the treatment leading women to change the way they fill out the application. The treatment weakens the correlation between soft-skill signals and objective technical skills, which are otherwise positively correlated. Combined with evaluators’ greater reliance on soft-skill signals for female applicants, this leads to the screening in of less-qualified women for interviews in treated areas.
 </p>
@@ -28,11 +30,13 @@ We evaluate how well-meaning inclusion efforts can backfire if not implemented c
   <u>Select Research in Progress</u>
 
   <p><strong>Why do we Pay for Symbolism? Evidence from U.S. Landmark Names</strong> with Emily McDonnell. <em>Data collection in progress</em></p>
+  <p>[AEA RCT Registry](https://www.socialscienceregistry.org/trials/11742)</p>
   <p>
 Do the processes that agents use to establish social and cultural inclusion matter for their ultimate success? We analyze reactions to the renaming of U.S. geographic landmarks. Using a sample of real landmark name changes and political donations in affected zip-codes, we find evidence of a right-wing lean in the count of donations to political candidates after name changes are announced, but that donors are more responsive to the name change process than the actual replacement names. In our survey experiment, respondents express much more conservative policy preferences when we frame the 2015 renaming of Mt. McKinley to Mt. Denali as a process enacted by and benefiting groups of people, rather than a passive occurrence. Emphasizing the Indigenous origins of the name "Denali" does not generate the same response, and when combined with the active voice treatment mitigates the backlash. We argue that some people lose utility through the processes that seek to enact, remove, or replace symbols, distinct from preferences over the symbols themselves. Crucially, tailored information can psychologically compensate people for these utility losses and reduce backlash. These findings have implications for our understanding of cultural preferences over political processes, and policy relevance for messaging about policy changes.
 </p>
   
   <p><strong>General Equilibrium Impacts of Social Network Formation.</strong> <em>Data collection complete, analysis in progress.</em></p>
+  <p>[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13644)</p>
   <p>
   Does exogenously generating social inclusion for one person have externalities for others' social inclusion? I leverage cluster-randomized treatment saturation of an experiment that creates exogenous opportunities for social linking, which effectively creates variation in the spatial proximity of Control participants to neighbors' network activity. The treatment design also randomly varies the socio-economic status of the exogenous interactions among low-income treated participants. This design allows me to answer fundamental questions about social network formation that we have limited causal evidence for: Does proximity to social network activity crowd in or crowd out one’s own social ties? Do these effects depend on socio-economic status of the agent who is proximate to others' social network activity, or the socio-economic status of the socially-active nodes to whom she is proximate? 
 </p>
@@ -43,6 +47,7 @@ Do the processes that agents use to establish social and cultural inclusion matt
   </p>
   
   <p><strong>Gendered Misallocation of Agrarian Labor</strong> with Nicholas Rahim. <em>Trial in progress</em></p>
+  <p>[AEA RCT Registry](https://www.socialscienceregistry.org/trials/14981)</p>
   <p>
     We test a novel explanation for disparities in agricultural output between men and women in Malawi: child-bearing as a unique shock to women's labor supply that inhibit efficient land utilization. Pregnancy and child-rearing are negative shocks to women’s available labor. In frictionless land, labor, and credit markets, or with substitutability between household member's labor, women should be able to make productive use of their land when their own labor supply is physiologically constrained. We implement a randomized controlled trial with female farmers who are pregnant or have a child under the age of one year old. We test the impact of subsidizing the cost and search frictions for hiring five days of agricultural labor during the farming season on agricultural and health outcomes.
   </p>
