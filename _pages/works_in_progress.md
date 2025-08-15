@@ -9,7 +9,7 @@ author_profile: true
 
 <div>
   <p><strong>JOB MARKET PAPER Income-Based Homophily and Social Capital: Experimental Evidence from Malawi</strong></p>
-  [AEA RCT Registry](https://www.socialscienceregistry.org/trials/13644)
+  {% include base_path %}[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13644)
   <p>
 I study the exogenous impacts of social linking among a sample that is socially isolated, lonely, and economically vulnerable. I experimentally induce social interactions between female rural migrants in Malawi by facilitating low-SES women in inviting low-SES, high-SES, or a random mix of women for a shared meal. I cross-randomize a voucher for meat, a high-price good that improves the experience of sharing a meal. Within just one month of the intervention, participants are 25% more likely to operate small-scale, informal businesses relative to control. One year later, they experience a 0.13 SD increase in food consumption and a 22% reduction in depression. While all groups experience both sets of benefits, inviting high-SES guests leads to more business activity and higher consumption, while inviting low-SES guests leads to greater depression reductions. I find that effort costs prohibit women from initiating any relationship in the absence of the intervention, while the high price of serving meat inhibits cross-SES linking. I draw three conclusions: (1) all social relationships yield large benefits, but frictions inhibit them from forming, (2) different types of relationships are more productive across different domains, underscoring the value of economically diverse networks, and (3) prices reinforce income-based homophily.
 </p>
