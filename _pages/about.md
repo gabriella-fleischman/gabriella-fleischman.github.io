@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Public Policy (Economics Track) at Harvard University. In my research, I am driven to understand the economic consequences of social and cultural inclusion of marginalized groups, especially as it relates to their health and labor market opportunities. I study these issues through the lens of development economics, health economics, and the economics of social networks.
+I am a Ph.D. Candidate in Public Policy (Economics Track) at Harvard University. I study the economic consequences of social and cultural inclusion of marginalized groups, especially as it relates to their health and labor market opportunities. My research evaluates these issues through the lens of development economics, health economics, and the economics of social networks.
 
 I will be joining the University of Pittsburgh Department of Economics as an Assistant Professor in Fall 2026.
 
