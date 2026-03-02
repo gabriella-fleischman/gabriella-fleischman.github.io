@@ -17,6 +17,7 @@ author_profile: true
   <p style="margin-top: 0.75em;">
 What are the causal effects of new social relationships, and do returns to link formation vary within versus across social class? I conduct a field experiment among women in rural Malawi who, due to the widespread practice of patrilocality, relocate to their husband’s home village, thereby disrupting their preexisting social ties. I randomly assign low socioeconomic status (SES) female migrants to information on neighboring women willing to receive meal invitations and the opportunity to send invitations; experimentally varying whether the potential guests are of the same SES, a higher-SES, or both. I cross-randomize the invitation-sending arms with an in-kind meal subsidy. I find a substantial response to the invitation list: 81% of women send invitations across all treatment arms, suggesting that information and effort frictions are important barriers to building networks in this setting. The price of food discourages sending invitations to higher-SES women when inviting low-SES women is an option. I show that there are substantial but differential returns to cross- and same-SES linkages: participants with the opportunity to invite higher-SES guests report being 50% more likely to earn income from self-employment and a 0.21 SD improvement in food security, while women with the opportunity to invite guests within-SES experience a 0.23 SD (30%) reduction in depression one year later. This highlights a trade-off in network formation, where social ties that offer economic advancement may come at the expense of relationships that improve psychological well-being.
 </p>
+</details>
 
 <details class="research-item">
   <summary>
@@ -26,6 +27,7 @@ What are the causal effects of new social relationships, and do returns to link 
   <p style="margin-top: 0.75em;">
 Behavioral change can arise from learning from oneself or learning from others. But how might these two forms of learning interact? We examine complementarities between individual experiential learning and social learning in health technology adoption using an 1800-household field experiment on water chlorination in peri-urban Pakistan. We randomize treated participants to a learning intervention, where they record and visually track their children's diarrhea rate before and after we offer free chlorine tablets. We exogenously expose them to social learning through random variation in neighbors' treatment assignment. While there is no difference on average in the rate of chlorine use between the learning arm and households that receive free chlorine tablets only, learning-arm households with learning arm neighbors chlorinate their water at a significantly higher rate than their counterparts for almost one year after the end of the learning intervention. Households who are not in the learning arm but have learning-arm neighbors exhibit no difference in behavior. We propose a model of learning where agents are sensitive to signal acquisition technologies and trust signals from technologies with which they have personal experience, giving rise to a complementarity between experiential and social learning. The welfare implications of this complementarity are substantial: ITT estimates suggest that, more than one year later, learning households with learning neighbors exhibit a 0.10 SD (p=0.015) increase in an index of child anthropometrics compared to all other households that receive chlorine.
 </p>
+</details>
 
 <details class="research-item">
   <summary>
@@ -35,6 +37,7 @@ Behavioral change can arise from learning from oneself or learning from others. 
   <p style="margin-top: 0.75em;">
 Female labor force participation is constrained by supply-side frictions (lack of qualified female applicants) and demand-side frictions (biases in hiring decisions). How do supply- and demand-side distortions interact to affect gender gaps in employment? We partner with a firm to conduct two experiments: The first experiment addresses supply-side behavioral gender gaps during a recruitment drive through female-directed advertising, while the second experiment is a resume audit study among evaluators to isolate biases in hiring. Despite no treatment effects on the objective skills of male or female applicants, the treatment has the perverse effect of leading to a reduction in female hiring. In the resume audit study, evaluators place greater weight on noisy signals of soft skills for women than men when shortlisting candidates, while, in the recruitment experiment, the treatment leads low-ability women to inflate their signals of soft-skills. Evaluators subsequently shortlist lower-ability women in treated areas, who crowd out higher-ability female candidates from the shortlisted pool. Our estimates suggest that mitigating either supply-side distortions in application signals or evaluator bias in signal weighting would close the gender gap in the ability of shortlisted candidates by 51-55%, with only modest additional gains to mitigating both.
 </p>
+</details>
 
   <hr>
 
@@ -48,7 +51,8 @@ Female labor force participation is constrained by supply-side frictions (lack o
   <p style="margin-top: 0.75em;">
 Why are people willing to pay for things that are symbolic? We analyze reactions to the renaming of U.S. geographic landmarks to argue that people lose utility through the process of how symbols change, even when they are indifferent to the symbols themselves. Descriptively, people living in zip-codes that experience geographic landmark name changes initiated by a Democratic administration are more likely to donate to Republican political candidates and less likely to donate to Democratic political candidates after name removals are announced, but not when the replacement names themselves are announced. In a 2024 survey experiment, all respondents express much more conservative policy preferences when we frame the 2015 (Democratic administration) renaming of Mt. McKinley to Mt. Denali as a process enacted by and benefiting groups of people, rather than a passive occurrence. Emphasizing the Indigenous origins of the name Denali does not generate the same response. In a 2025 survey experiment, White respondents again report more conservative policy preferences when we frame the 2025 (Republican administration) renaming of Mt. Denali to Mt. McKinley as an active rather than passive process, while non-White respondents express much more liberal policy preferences. These results suggest that how people interpret the process of symbolic change depends on the interaction between personal identity and the identity represented by the symbolic change.
 </p>
-  
+ </details>
+ 
   <details class="research-item">
   <summary>
   <p><strong>Peer Effects in Adherence to HIV Treatment</strong> with Jessica Gallant. | <a href="https://gabriella-fleischman.github.io/files/Peer_Effects___CEAs.pdf">Slides</a> | <em>Analysis</em></p>
@@ -57,6 +61,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
   <p style="margin-top: 0.75em;">
     This paper investigates the role of peer influence in health behavior by studying antiretroviral therapy (ART) adherence among adolescents living with HIV in Malawi. With high-frequency electronic medical records of almost 45,000 adolescents, across twelve years, 85 clinics, and 23 districts in Malawi, we track high-stakes health decision-making for as long as adolescents receive care. Using a staggered differences-in-differences analysis of the effects of Teen Club entry at the clinic, we find that Teen Club entry increases on-time visit attendance by 33%. We validate this finding with a regression discontinuity design using age cut-offs in Teen Club eligibility and age at the time of initiation, and find that barely age-eligible patients are 65% less likely to ever be lost to care. Being barely age-eligible decreases the probability of ever contracting tuberculosis by 10%, and decreases five-year mortality by 140%. Finally, we utilize two instrumental variables specifications to measure how attendance at Teen Club is impacted directly by peer attendance in their prior Teen Club appointment, as instrumented by the peer's attendance record prior to the patient's initiation at Teen Club, or as instrumented by rainfall on the peer's appointment date.
   </p>
+</details>
 
 <details class="research-item">
   <summary>  
@@ -66,6 +71,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
   <p style="margin-top: 0.75em;">
     We test a novel explanation for disparities in agricultural output between men and women in Malawi: child-bearing as a unique shock to women's labor supply that inhibit efficient land utilization. Pregnancy and child-rearing are negative shocks to women’s available labor. In frictionless land, labor, and credit markets, or with substitutability between household member's labor, women should be able to make productive use of their land when their own labor supply is physiologically constrained. We implement a randomized controlled trial with female farmers who are pregnant or have a child under the age of one year old. We test the impact of subsidizing the cost and search frictions for hiring five days of agricultural labor during the farming season on agricultural and health outcomes. On average, the program leads to a noisy 10% increase in farm yields and precise 20% increase in the probability of eating three meals. The effects are driven by women who are pregnant during the trial, particularly those who are enrolled in the trial during the first two trimesters of pregnancy, who experience the largest shock to their physiological capacity to supply labor during the agricultural season.
   </p>
+</details>
 
 <details class="research-item">
   <summary>
@@ -75,6 +81,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
   <p style="margin-top: 0.75em;">
   Does exogenously generating social inclusion for one person have externalities for others' social inclusion? I leverage cluster-randomized treatment saturation of an experiment that creates exogenous opportunities for social linking, which effectively creates variation in the spatial proximity of Control participants to neighbors' network activity. The treatment design also randomly varies the socio-economic status of the exogenous interactions among low-income treated participants. This design allows me to answer fundamental questions about social network formation that we have limited causal evidence for: Does proximity to social network activity crowd in or crowd out one’s own social ties? Do these effects depend on socio-economic status of the agent who is proximate to others' social network activity, or the socio-economic status of the socially-active nodes to whom she is proximate? 
 </p>
+</details>
 
 <details class="research-item">
   <summary>
