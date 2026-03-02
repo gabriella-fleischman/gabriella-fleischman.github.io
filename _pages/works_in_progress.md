@@ -11,7 +11,7 @@ author_profile: true
 
 <details class="research-item">
   <summary>
-  <strong>JOB MARKET PAPER -- Economic and Psychological Returns to Social Relationships: Alleviating Constraints to Network Formation in Malawi</strong> | <a href="https://gabriella-fleischman.github.io/files/Fleischman_JMP.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/13644">AEA RCT Registry</a>
+  <strong>Economic and Psychological Returns to Social Relationships: Alleviating Constraints to Network Formation in Malawi</strong> | <a href="https://gabriella-fleischman.github.io/files/Fleischman_JMP.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/13644">AEA RCT Registry</a>
 </summary>
 
   <p style="margin-top: 0.75em;">
@@ -19,7 +19,7 @@ What are the causal effects of new social relationships, and do returns to link 
 </p>
 </details>
 
-<details class="research-item">
+<details class="research-item" style="margin-top: 0.75em;">
   <summary>
   <strong>Experiential and Social Learning</strong> with <a href="https://www.aghaaliakram.com">Agha Ali Akram</a>, <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941">Reshmaan Hussam</a>, and <a href="https://sites.google.com/view/akibkhan/home">Akib Khan</a> | <a href="https://gabriella-fleischman.github.io/files/ExperientialSocialLearning.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/3673">AEA RCT Registry</a>
 </summary>
@@ -29,7 +29,7 @@ Behavioral change can arise from learning from oneself or learning from others. 
 </p>
 </details>
 
-<details class="research-item">
+<details class="research-item" style="margin-top: 0.75em;">
   <summary>
   <strong>Distorted Signals and Evaluator Bias: A Two-Stage Experiment on Gendered Hiring in Malawi</strong> with Mansa Saxena | <a href="https://gabriella-fleischman.github.io/files/FleischmanSaxena_DistortedSignals.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/15284">AEA RCT Registry</a>
 </summary>
@@ -43,7 +43,7 @@ Female labor force participation is constrained by supply-side frictions (lack o
 
   <u>Select Research in Progress</u>
 
-<details class="research-item">
+<details class="research-item" style="margin-top: 0.75em;">
   <summary>
   <strong>Why do we Pay for Symbolism? Evidence from U.S. Geographic Landmark Name Changes</strong> with Emily McDonnell. | <a href="https://www.socialscienceregistry.org/trials/11742">AEA RCT Registry</a> | <em>Draft coming soon</em>
   </summary>
@@ -53,7 +53,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
 </p>
  </details>
  
-  <details class="research-item">
+  <details class="research-item" style="margin-top: 0.75em;">
   <summary>
   <strong>Peer Effects in Adherence to HIV Treatment</strong> with Jessica Gallant. | <a href="https://gabriella-fleischman.github.io/files/Peer_Effects___CEAs.pdf">Slides</a> | <em>Analysis</em>
   </summary>
@@ -63,7 +63,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
   </p>
 </details>
 
-<details class="research-item">
+<details class="research-item" style="margin-top: 0.75em;">
   <summary>  
   <strong>Gendered Misallocation of Agrarian Labor</strong> with Nicholas Rahim. | <a href="https://gabriella-fleischman.github.io/files/Gendered_Misallocation_Slides.pdf">Slides</a> | <a href="https://www.socialscienceregistry.org/trials/14981">AEA RCT Registry</a> | <em>Trial complete, analysis in progress</em>
     </summary>
@@ -73,7 +73,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
   </p>
 </details>
 
-<details class="research-item">
+<details class="research-item" style="margin-top: 0.75em;">
   <summary>
   <strong>General Equilibrium Impacts of Social Network Formation.</strong> | <a href="https://www.socialscienceregistry.org/trials/13644">AEA RCT Registry</a> | <em>Data collection complete, analysis in progress.</em>
   </summary>
@@ -83,7 +83,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
 </p>
 </details>
 
-<details class="research-item">
+<details class="research-item" style="margin-top: 0.75em;">
   <summary>
     <strong>Public Services and Private Behavior: Evidence from Water Infrastructure in Pakistan</strong>
     with <a href="https://sites.google.com/view/akibkhan/home">Akib Khan</a> and Yousra Neberai.
