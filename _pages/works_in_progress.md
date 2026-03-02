@@ -49,7 +49,7 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
 
 <details class="research-item">
   <summary>
-    <strong>Public Services and Private Behavior: Evidence from Water Infrastructure in Pakistan</strong>
+    <strong>Public Services and Private Behavior: Evidence from Water Infrastructure in Pakistan.</strong>
     with <a href="https://sites.google.com/view/akibkhan/home">Akib Khan</a> and Yousra Neberai.
     <em>Data collection complete, analysis in progress</em>
   </summary>
