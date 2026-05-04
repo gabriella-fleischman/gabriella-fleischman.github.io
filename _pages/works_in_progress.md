@@ -12,7 +12,7 @@ author_profile: true
 <details class="research-item">
   <summary>
   <strong>Economic and Psychological Returns to Social Relationships: Alleviating Constraints to Network Formation in Malawi</strong> | <a href="https://gabriella-fleischman.github.io/files/Fleischman_JMP.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/13644">AEA RCT Registry</a>
-<iframe width="56" height="31.5" src="https://www.youtube.com/embed/GjsV19JisEQ?si=dEufWOOCQcDz-0PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GjsV19JisEQ?si=dEufWOOCQcDz-0PY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:400px; height:225px;"></iframe>
 </summary>
 
 
