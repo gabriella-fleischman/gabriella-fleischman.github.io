@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gabriella Fleischman"
   avatar           : "headshot.jpeg"
-  bio              : "Ph.D. Candidate in Public Policy (Economics Track), Harvard University"
-  location         : "Cambridge, MA"
+  bio              : #"Assistant Professor of Economics, University of Pittsburgh"
+  location         : #"Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
