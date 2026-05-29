@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gabriella Fleischman"
+  name             : #"Gabriella Fleischman"
   avatar           : "headshot.jpeg"
   bio              : #"Assistant Professor of Economics, University of Pittsburgh"
   location         : #"Pittsburgh, PA"
