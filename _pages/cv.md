@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV - October 2025](https://gabriella-fleischman.github.io/files/FleischmanGabriella_CV_14August2025.pdf)
+[CV - July 2026](https://gabriella-fleischman.github.io/files/FleischmanGabriella_CV.pdf)
