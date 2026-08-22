@@ -43,6 +43,16 @@ Female labor force participation is constrained by supply-side frictions (lack o
 </p>
 </details>
 
+<details class="research-item" style="margin-top: 0.75em;">
+  <summary>  
+  <strong>Gendered Misallocation of Agrarian Labor</strong> with <a href="https://nicholasrahim.github.io/">Nicholas Rahim.</a> | <a href="https://nicholasrahim.github.io/files/Fleischman_Rahim_Gendered_Misallocation_of_Labor.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/14981">AEA RCT Registry</a> | <em>Trial complete, analysis in progress</em>
+    </summary>
+
+  <p style="margin-top: 0.75em;">
+  We test a novel explanation for disparities in agricultural output between men and women in Malawi: child-bearing as a unique shock to women's labor supply that inhibits efficient land utilization. We implement a randomized controlled trial with female farmers who are pregnant or have a child under the age of two years old. We test the impact of providing five paid days of skilled agricultural labor during the farming season. For women who are enrolled in the trial during the first two trimesters of pregnancy, the program does not substitute for household labor, and, if anything, crowds <em>in</em> hired labor. These treated women experience a 0.26 standard deviation increase in harvest yields and a 0.39 standard deviation increase in maternal food security. For women enrolled in the trial during the third trimester of pregnancy, the treatment leads farmers to substitute away from hired labor and engage more in non-agricultural income-generating activities, with no effects on yields or food security. The program has no impact among women who are non-pregnant. We interpret these results through a model where the physiological labor supply shock of pregnancy interacts non-linearly with market failures and intra-household norms to create gendered shocks to farm productivity and consumption.
+  </p>
+</details>
+
   <hr>
 
   <u>Select Research in Progress</u>
@@ -64,16 +74,6 @@ Why are people willing to pay for things that are symbolic? We analyze reactions
 
   <p style="margin-top: 0.75em;">
     This paper investigates the role of peer influence in health behavior by studying antiretroviral therapy (ART) adherence among adolescents living with HIV in Malawi. With high-frequency electronic medical records of almost 45,000 adolescents, across twelve years, 85 clinics, and 23 districts in Malawi, we track high-stakes health decision-making for as long as adolescents receive care. Using a staggered differences-in-differences analysis of the effects of Teen Club entry at the clinic, we find that Teen Club entry increases on-time visit attendance by 33%. We validate this finding with a regression discontinuity design using age cut-offs in Teen Club eligibility and age at the time of initiation, and find that barely age-eligible patients are 65% less likely to ever be lost to care. Being barely age-eligible decreases the probability of ever contracting tuberculosis by 10%, and decreases five-year mortality by 140%. Finally, we utilize two instrumental variables specifications to measure how attendance at Teen Club is impacted directly by peer attendance in their prior Teen Club appointment, as instrumented by the peer's attendance record prior to the patient's initiation at Teen Club, or as instrumented by rainfall on the peer's appointment date.
-  </p>
-</details>
-
-<details class="research-item" style="margin-top: 0.75em;">
-  <summary>  
-  <strong>Gendered Misallocation of Agrarian Labor</strong> with Nicholas Rahim. | <a href="https://gabriella-fleischman.github.io/files/Gendered_Misallocation_Slides.pdf">Slides</a> | <a href="https://www.socialscienceregistry.org/trials/14981">AEA RCT Registry</a> | <em>Trial complete, analysis in progress</em>
-    </summary>
-
-  <p style="margin-top: 0.75em;">
-  We test a novel explanation for disparities in agricultural output between men and women in Malawi: child-bearing as a unique shock to women's labor supply that inhibits efficient land utilization. We implement a randomized controlled trial with female farmers who are pregnant or have a child under the age of two years old. We test the impact of providing five paid days of skilled agricultural labor during the farming season. For women who are enrolled in the trial during the first two trimesters of pregnancy, the program does not substitute for household labor, and, if anything, crowds <em>in</em> hired labor. These treated women experience a 0.26 standard deviation increase in harvest yields and a 0.39 standard deviation increase in maternal food security. For women enrolled in the trial during the third trimester of pregnancy, the treatment leads farmers to substitute away from hired labor and engage more in non-agricultural income-generating activities, with no effects on yields or food security. The program has no impact among women who are non-pregnant. We interpret these results through a model where the physiological labor supply shock of pregnancy interacts non-linearly with market failures and intra-household norms to create gendered shocks to farm productivity and consumption.
   </p>
 </details>
 
