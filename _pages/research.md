@@ -45,7 +45,7 @@ Female labor force participation is constrained by supply-side frictions (lack o
 
 <details class="research-item" style="margin-top: 0.75em;">
   <summary>  
-  <strong>Gendered Misallocation of Agrarian Labor</strong> with <a href="https://nicholasrahim.github.io/">Nicholas Rahim.</a> | <a href="https://nicholasrahim.github.io/files/Fleischman_Rahim_Gendered_Misallocation_of_Labor.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/14981">AEA RCT Registry</a> | <em>Trial complete, analysis in progress</em>
+  <strong>Gendered Misallocation of Agrarian Labor</strong> with <a href="https://nicholasrahim.github.io/">Nicholas Rahim.</a> | <a href="https://nicholasrahim.github.io/files/Fleischman_Rahim_Gendered_Misallocation_of_Labor.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/14981">AEA RCT Registry</a>
     </summary>
 
   <p style="margin-top: 0.75em;">
