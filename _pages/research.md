@@ -35,7 +35,7 @@ How does a person’s own learning experience affect their ability to learn from
 
 <details class="research-item" style="margin-top: 0.75em;">
   <summary>
-  <strong>Distorted Signals and Evaluator Bias: A Two-Stage Experiment on Gendered Hiring in Malawi</strong> with Mansa Saxena | <a href="https://gabriella-fleischman.github.io/files/FleischmanSaxena_DistortedSignals.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/15284">AEA RCT Registry</a>
+  <strong>Distorted Signals and Evaluator Bias: A Two-Stage Experiment on Gendered Hiring in Malawi</strong> with <a href="https://mansasaxena.github.io/">Mansa Saxena</a> | <a href="https://gabriella-fleischman.github.io/files/FleischmanSaxena_DistortedSignals.pdf">Draft</a> | <a href="https://www.socialscienceregistry.org/trials/15284">AEA RCT Registry</a>
 </summary>
 
   <p style="margin-top: 0.75em;">
